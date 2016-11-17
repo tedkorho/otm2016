@@ -17,4 +17,4 @@ näin näet commitin aiheuttamat muutokset diff-muodossa
 jos oikealta on valittuna tree näkyy vasemmalla puolella (valinnasta riippumatta) tiedostojen commitin aikainen tilanne
 tiedoston poistaminen ja uudelleennimentä
 
-mitä
+tein jotain hirveää
