@@ -17,7 +17,4 @@ näin näet commitin aiheuttamat muutokset diff-muodossa
 jos oikealta on valittuna tree näkyy vasemmalla puolella (valinnasta riippumatta) tiedostojen commitin aikainen tilanne
 tiedoston poistaminen ja uudelleennimentä
 
-Poista tiedosto toinen.txt
-suorita git status
-commitoi muutos
-poista ensin tiedosto gitin alaisuudesta komennolla git rm
+mitä
