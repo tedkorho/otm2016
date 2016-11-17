@@ -2,3 +2,22 @@
 | B | O | I |
 | F | U |
 | B |
+
+Vasemmalla yläkulmassa näet kaikki commitit. Uusin tilanne ylimpänä. Uusimman commitin nimi on master. Klikkaamalla commitia, näet muissa ikkunoissa commitiin liittyviä tietoja. Oikealla alakulmassa näet ne tiedostot, jotka ovat muuttuneet commitissa (jos valinta on patch) tai ne tiedostot, joita repositoriossa oli olemassa commitin aikana (jos valinta on tree). Vasemmassa alakulmassa pystyt tarkastelemaan commitin tiedostoihin tekemiä muutoksia tai tiedostojen tilaa
+commitin aikana. Valinnat ovat hieman hämäävät sillä ne toimivat eri tavoin riippuen oikean puolen moodista.
+
+Seuraavaa tehtävää tekiessäsi kannattaa terminaaliin avata uusi välilehti jotta voit pitää gitk:ta käynnissä.
+
+Kopioi tiedostoon tiedosto.txt jostain paljon tekstiä ja commitoi tiedosto.
+Poista nyt osa tiedoston tekstistä ja lisää tiedostoon hieman lisää tekstiä.
+commitoi muutosten jälkeen
+Päivitä gitk:n näkymä (file/update) ja katso miten muutokset näkyvät (tarkastele kahta ylintä committia)
+valitse oikeasta alakulmasta patch ja vasemmasta diff.
+näin näet commitin aiheuttamat muutokset diff-muodossa
+jos oikealta on valittuna tree näkyy vasemmalla puolella (valinnasta riippumatta) tiedostojen commitin aikainen tilanne
+tiedoston poistaminen ja uudelleennimentä
+
+Poista tiedosto toinen.txt
+suorita git status
+commitoi muutos
+poista ensin tiedosto gitin alaisuudesta komennolla git rm
