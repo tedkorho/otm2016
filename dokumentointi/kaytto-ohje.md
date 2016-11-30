@@ -4,4 +4,4 @@
 
 2: Poista makefile.
 
-2: [Ole mies.](https://lmgtfy.com/?q=how+to+compile+and+link)
+3: [Ole mies.](https://lmgtfy.com/?q=how+to+compile+and+link)
